@@ -8,7 +8,7 @@ sudo apt install nginx -y
 
 #Dá permissão à pasta
 
-sudo chwon -R www-data:www-data /var/www/html
+sudo chown -R www-data:www-data /var/www/html
 
 
 # Reinicia o nginx
