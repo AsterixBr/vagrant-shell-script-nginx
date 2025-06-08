@@ -10,3 +10,4 @@ Este projeto cria uma máquina virtual usando Vagrant, instala e configura o Ngi
    ```bash
    git clone https://github.com/AsterixBr/vagrant-shell-script-nginx.git
    cd vagrant-shell-script-nginx
+# vagrant-shell-script-nginx
